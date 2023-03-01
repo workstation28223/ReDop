@@ -6,3 +6,9 @@ git commit -m "message"
 git remote add origin url.git
 git remote -v
 git push --set-u origin master
+
+after git setup----
+git status
+git add .
+git statusgit commit -m "message"
+git push
