@@ -4,7 +4,7 @@ import React from 'react'
 export default function App() {
   return (
     <View>
-      <Text>This is master</Text>
+      <Text>This is masterc</Text>
     </View>
   )
 }
