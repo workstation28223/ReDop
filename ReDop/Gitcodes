@@ -1,0 +1,8 @@
+git init
+git config --global user.name "mukund"
+git config --global user.email "email"
+git add *
+git commit -m "message"
+git remote add origin url.git
+git remote -v
+git push --set-u origin master
